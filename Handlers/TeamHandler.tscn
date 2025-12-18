@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://ei7eipbh2qe4"]
+
+[ext_resource type="Script" uid="uid://b3pqekqdp6xwd" path="res://Scripts/Handlers/team_handler.gd" id="1_tdc87"]
+
+[node name="TeamHandler" type="Node"]
+script = ExtResource("1_tdc87")

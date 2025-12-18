@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://blc2e44rpysx5"]
+
+[ext_resource type="Script" uid="uid://b0qtjjn624kic" path="res://Scripts/Handlers/truco_handler.gd" id="1_bpjpb"]
+
+[node name="TrucoHandler" type="Node"]
+script = ExtResource("1_bpjpb")

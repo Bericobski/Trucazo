@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://djcn7urxnttw1"]
+
+[ext_resource type="Script" uid="uid://1byimj27n0cn" path="res://Scripts/Handlers/envido_handler.gd" id="1_07gwq"]
+
+[node name="EnvidoHandler" type="Node"]
+script = ExtResource("1_07gwq")
